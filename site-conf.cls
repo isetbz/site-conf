@@ -2,8 +2,8 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{site-conf}[2025/06/25 v0.1 SITE Conference Class]
-% Author: SITE Conference Team
-% URL: https://site-conf.com
+% Maintainer: a-mhamdi
+% URL: https://github.com/isetbz/site-conf
 % License: MIT
 
 \LoadClass[10pt,twocolumn,letterpaper]{article}
