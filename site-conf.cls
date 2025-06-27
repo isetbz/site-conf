@@ -21,6 +21,17 @@
 \RequirePackage{parskip}
 \RequirePackage[hidelinks]{hyperref}
 
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  citecolor=blue,
+  pdfauthor={SITE},
+  pdftitle={SITE Conference Paper},
+  pdfsubject={SITE Conference Paper},
+  pdfkeywords={site, conference, paper, latex},
+}
+
 % Page layout
 \setlength{\textheight}{9.0in}
 \setlength{\textwidth}{6.5in}
