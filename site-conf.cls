@@ -56,7 +56,7 @@
 
 % Author formatting helper
 \newcommand{\name}[1]{#1}
-\newcommand{\departement}[1]{\small\textit{#1}}
+\newcommand{\department}[1]{\small\textit{#1}}
 \newcommand{\university}[1]{\small\textit{#1}}
 \newcommand{\email}[1]{\small\tt\href{#1}{#1}}
 
