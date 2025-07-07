@@ -5,7 +5,7 @@
 ## Description
 This template is used for the SITE conference paper submissions. Please read the instructions carefully before submitting your paper.
 
-You only to edit the `main.tex` file. The `cli` command to compile the document is:
+You only need to edit the `main.tex` file. The `cli` command to compile the document is:
 ```bash
 xelatex main.tex
 ```
