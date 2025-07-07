@@ -163,18 +163,15 @@
 
 % Abstract environment
 \renewenvironment{abstract}{%
-  %\small
+  \it
   \begin{center}%
     \textbf{\abstractname\vspace{-.5em}\vspace{\z@}}%
   \end{center}%
-  \quotation
-}{%
-  \endquotation
 }
 
 % Keywords environment
 \newenvironment{keywords}{%
-  %\small
+  \it
   \textbf{\textit{Index Terms---}}%
 }{%
   \par
